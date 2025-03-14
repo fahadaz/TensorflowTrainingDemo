@@ -1,5 +1,5 @@
 # Tensorflow Distributed Training Demo
-Hey team! 👋 We successfully tested distributed (multi GPU) TensorFlow training within Snowflake Container Runtime 🎉
+We successfully tested distributed (multi GPU) TensorFlow training within Snowflake Container Runtime 🎉
 
 Snowflake's CR doesn’t come with Tensorflow, but it can easily be installed with pip. Our example highlights CR's open-source connectivity with preconfigured Ray and GPU infrastructure.. 
 
